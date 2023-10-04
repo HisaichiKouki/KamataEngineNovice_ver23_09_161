@@ -41,7 +41,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///                                                            ///
 
 
-
+		Novice::ScreenPrintf(500, 360, "Hello GitHub!!");
 
 
 		///                                                            ///
